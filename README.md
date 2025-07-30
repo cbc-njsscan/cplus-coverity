@@ -1,4 +1,4 @@
-## objective-c-vuln-exampless
+## objective-c-vuln-examples
 This repo contains examples of some common Objective C related security vulnerabilities
 
 Vulnerabilities include
